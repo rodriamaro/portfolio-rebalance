@@ -1,0 +1,10 @@
+[project]
+name = "portfolio-rebalance"
+version = "0.1.0"
+description = "Simulador de rebalanceo de un portafolio de acciones"
+readme = "README.md"
+requires-python = ">=3.15.2,<3.16"
+dependencies = []
+
+[tool.uv]
+package = false
